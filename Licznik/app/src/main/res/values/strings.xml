@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Licznik</string>
+    <string name="button_zm">ZMNIEJSZ</string>
+    <string name="button_zw">ZWIĘKSZ</string>
+    <string name="button_zeruj">ZERUJ</string>
+    <string name="textView">0</string>
+    <string name="button_ch">Zmien wartosc</string>
+</resources>

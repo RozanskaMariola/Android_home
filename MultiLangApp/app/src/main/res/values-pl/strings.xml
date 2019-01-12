@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wielojęzykowa Aplikacja</string>
+    <string name="hello_world">Witaj świecie</string>
+    <string name="close_app">Zamknij Aplikacje</string>
+</resources>
